@@ -1,0 +1,16 @@
+##colors
+
+border: 
+
+
+#sec-2
+font-color: var(--color-text-low-emphasis);
+font-size: 1.6rem;
+line-height: 1.5;
+
+post free job color :#0a66c2
+
+##search
+bg: #dce6f1
+btn bg: #0a66c2
+placeholder text color: #666666

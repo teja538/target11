@@ -1,0 +1,10 @@
+nav bar color - #fff
+shadow clolor - #bbb
+font color - #5f6368
+subscribe color - #3367d6
+
+sec-1
+img src - https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Photos_Blog_Cinematic_Photos.max-1000x1000.png
+
+font-family: Google Sans,Roboto,Arial,Helvetica,sans-serif;
+    font-weight: 400;

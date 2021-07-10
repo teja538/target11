@@ -1,0 +1,9 @@
+edyst tv - #e0e0e0
+update profile link - #75cfed
+pro pic border - #f17e44
+inside problock,news font - #5c5c5c
+
+news - #e8edf0 and white
+view class button - #39be70
+
+font color - (black)
